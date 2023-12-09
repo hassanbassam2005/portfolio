@@ -18,8 +18,8 @@ li{
 } 
 .center>first, second{
     position: relative;
-    top: 20px;
-    left:20px;
+    top: 40px;
+    left:40px;
 }
 #first{
     color:blue;
