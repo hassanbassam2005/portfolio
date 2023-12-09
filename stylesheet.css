@@ -8,7 +8,7 @@ body{
     display: inline-block;
 }
 li{
-       marker: none;
+    display: block;
 }
 .center{
     margin:auto;
