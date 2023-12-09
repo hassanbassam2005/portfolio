@@ -8,7 +8,6 @@ li{
     height:100%;
     width: 300px;
     background-color: rgb(100, 99, 99);
-    padding-top: 20px;
 }
 .center{
     margin:auto;
@@ -16,11 +15,6 @@ li{
     color:rgb(0, 0, 0);
     block-size: 400px;
 } 
-#first, #second{
-    position: relative;
-    top:20px;
-    left:20px;
-}
 #first{
     color:blue;
 }
