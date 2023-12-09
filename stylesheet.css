@@ -6,7 +6,7 @@ li{
 }
 .box{
     height:100%;
-    width: 100%;
+    width: 300px;
     background-color: rgb(100, 99, 99);
     padding-top: 20px;
 }
