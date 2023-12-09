@@ -2,7 +2,8 @@ body{
     background-color: #ffffff;
 }
 li{
-    display: block;
+    display:list-item;
+    margin: auto;
 }
 .box{
     height:100%;
