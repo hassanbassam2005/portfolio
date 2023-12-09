@@ -1,8 +1,8 @@
 body{
     background-color: #ffffff;
 }
-li{
-    display:block;
+div{
+    display: inline;
 }
 .box{
     height:100%;
@@ -11,10 +11,10 @@ li{
 }
 .center{
     margin:auto;
-    margin-left: 0px;
     text-align: center;
     color:rgb(0, 0, 0);
     block-size: 400px;
+    padding:0px;
 } 
 #first{
     color:blue;
