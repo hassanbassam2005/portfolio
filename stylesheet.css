@@ -2,8 +2,8 @@ body{
     background-color: #ffffff;
 }
 .box{
-    height:100%;
-    width: 300px;
+    height: 100%;;
+    width: 250px;
     background-color: rgb(100, 99, 99);
     float:left;
 }
@@ -12,7 +12,7 @@ body{
     text-align: center;
     color:rgb(0, 0, 0);
     block-size: 400px;
-    float: right;
+    float: 2;
 } 
 #first{
     color:blue;
