@@ -15,6 +15,7 @@ li{
     text-align: center;
     color:rgb(0, 0, 0);
     block-size: 400px;
+    padding: 0px;
 } 
 #first, #second{
     position: relative;
