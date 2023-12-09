@@ -10,12 +10,14 @@ li{
     background-color: rgb(100, 99, 99);
     padding-top: 20px;
 }
+.center>ul{
+    padding: 0px;
+}
 .center{
     margin:auto;
     text-align: center;
     color:rgb(0, 0, 0);
     block-size: 400px;
-    padding: 0px;
 } 
 #first, #second{
     position: relative;
