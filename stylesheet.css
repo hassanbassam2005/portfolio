@@ -16,6 +16,9 @@ body{
     block-size: 400px;
     float: 2;
 } 
+.lol{
+    margin: auto;
+}
 #first{
     color:blue;
 }
