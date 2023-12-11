@@ -5,26 +5,17 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
     height:auto;
-    width: 300px;
+    width: 40rem;
     background-color: rgb(100, 99, 99);
     float:left;
 }
 .center{
     margin:auto;
+    width:12rem;
     text-align: center;
-    color:rgb(0, 0, 0);
     block-size: 400px;
     float: 2;
 } 
-.lol{
-    margin: auto;
-}
-#first{
-    color:blue;
-}
-#second{
-    color: #ff0062;
-}
 footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
