@@ -4,8 +4,6 @@ body{
 .box{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
-    width: 16rem;
-    height: 40rem;
     background-color: rgb(100, 99, 99);
     float:left;
 }
