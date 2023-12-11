@@ -8,12 +8,11 @@ body{
     float:left;
 }
 .center{
-    display:flex;
-    justify-content: center;
-    align-content: center;
+    margin:auto;
     width:12rem;
     text-align: center;
     block-size: 400px;
+    float: 2;
 } 
 h3{
     font-weight: bold;
