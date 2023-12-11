@@ -2,6 +2,8 @@ body{
     background-color: #ffffff;
 }
 .box{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
     height:1000px;
     width: 300px;
     background-color: rgb(100, 99, 99);
@@ -30,7 +32,4 @@ h3{
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
-}
-::marker{
-    list-style: none;
 }
