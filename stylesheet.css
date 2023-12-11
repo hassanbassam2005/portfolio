@@ -2,6 +2,8 @@ body{
     background-color: #ffffff;
 }
 .box{
+    width: 16rem;
+    height: 40rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
     background-color: rgb(100, 99, 99);
