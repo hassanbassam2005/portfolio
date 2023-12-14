@@ -1,13 +1,9 @@
-body{
-    margin: 0;
-    font-family: 'Prompt', sans-serif;
-    color: white;
-    background-color: grey;
-}
-
 section{
     position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
+    min-height: 400px;
+    padding: 100px 20vw;
 }
+ 
