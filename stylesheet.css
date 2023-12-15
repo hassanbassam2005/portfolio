@@ -31,7 +31,7 @@ section{
     height: 80%;
     background-color: #332FD0;
     transform: translate(-1.8%, 70%);
-    z-index: 1;
+    z-index: -1;
 } */
 .spacer{
     aspect-ratio: 900/100;
