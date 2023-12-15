@@ -57,4 +57,13 @@ section{
     background-color: #7f0de8;
 }
 
+@media only screen and (max-width: 600px){
+    *{
+        width: 100%;
+    }
+    body{
+        overflow-x: visible;
+    }
+}
+
 
