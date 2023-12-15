@@ -6,9 +6,9 @@ section{
     min-height: 400px;
     padding: 100px 20vw;
 }
-.curve{
+/* .curve{
     position: absolute;
-    height: 300px;
+    height: 250px;
     width: 100%;
     bottom: 0;
 }
@@ -32,6 +32,20 @@ section{
     background-color: #332FD0;
     transform: translate(-1.8%, 70%);
     z-index: 1;
+} */
+.spacer{
+    aspect-ratio: 900/100;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.layer1{
+    background-image: url(./layered-waves-haikei\ \(2\).svg);
+}
+.layer2{
+    background-image: url(./layered-waves-haikei\ \(4\).svg) ;
+    
 }
 .wave1{
     background-color: #332FD0;
@@ -40,7 +54,7 @@ section{
     background-color: #9254C8;
 }
 .wave3{
-    background-color: #6EDCD9;
+    background-color: #7f0de8;
 }
 
 
