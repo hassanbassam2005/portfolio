@@ -6,4 +6,41 @@ section{
     min-height: 400px;
     padding: 100px 20vw;
 }
- 
+.curve{
+    position: absolute;
+    height: 300px;
+    width: 100%;
+    bottom: 0;
+}
+.curve::before{
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+    width:55%;
+    height:70%;
+    background-color: #9254C8;
+    transform: translate(89.5%, 100%);
+}
+.curve::after{
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 50% 50% 100% 50%;
+    width:54.5%;
+    height: 80%;
+    background-color: #332FD0;
+    transform: translate(-1.8%, 70%);
+    z-index: 1;
+}
+.wave1{
+    background-color: #332FD0;
+}
+.wave2{
+    background-color: #9254C8;
+}
+.wave3{
+    background-color: #6EDCD9;
+}
+
+
