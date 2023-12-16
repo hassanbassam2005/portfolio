@@ -1,0 +1,33 @@
+section{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-items: left;
+    min-height: 400px;
+    padding: 100px 20vw;
+}
+.spacer{
+    aspect-ratio: 900/100;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.layer1{
+    background-image: url(./layered-waves-haikei\ \(2\).svg);
+}
+.layer2{
+    background-image: url(./layered-waves-haikei\ \(4\).svg) ;
+    
+}
+.wave1{
+    background-color: #332FD0;
+}
+.wave2{
+    background-color: #9254C8;
+}
+.wave3{
+    background-color: #7f0de8;
+}
+
+
