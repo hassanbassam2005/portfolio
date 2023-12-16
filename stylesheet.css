@@ -6,33 +6,6 @@ section{
     min-height: 400px;
     padding: 100px 20vw;
 }
-/* .curve{
-    position: absolute;
-    height: 250px;
-    width: 100%;
-    bottom: 0;
-}
-.curve::before{
-    content: '';
-    display: block;
-    position: absolute;
-    border-radius: 100% 50%;
-    width:55%;
-    height:70%;
-    background-color: #9254C8;
-    transform: translate(89.5%, 100%);
-}
-.curve::after{
-    content: '';
-    display: block;
-    position: absolute;
-    border-radius: 50% 50% 100% 50%;
-    width:54.5%;
-    height: 80%;
-    background-color: #332FD0;
-    transform: translate(-1.8%, 70%);
-    z-index: -1;
-} */
 .spacer{
     aspect-ratio: 900/100;
     width: 100%;
@@ -57,10 +30,10 @@ section{
     background-color: #7f0de8;
 }
 
-@media only screen and (max-width: 767px){
+/* @media only screen and (max-width: 767px){
    .body{
-    width: fit-content;
+    
    }
-}
+} */
 
 
